@@ -1,0 +1,2 @@
+python Parser.py
+pause
